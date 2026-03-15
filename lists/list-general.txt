@@ -52,3 +52,4 @@ redditstatic.com
 preview.redd.it
 r2.foundryvtt.com
 foundryvtt.com
+twitch.tv
