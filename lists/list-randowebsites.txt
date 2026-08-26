@@ -52,3 +52,5 @@ redditstatic.com
 preview.redd.it
 r2.foundryvtt.com
 foundryvtt.com
+quartz-scheduler.org
+cdn.jsdelivr.net

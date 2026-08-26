@@ -53,3 +53,5 @@ preview.redd.it
 r2.foundryvtt.com
 foundryvtt.com
 twitch.tv
+baeldung.com
+docs.spring.io
